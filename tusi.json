@@ -13,14 +13,17 @@
       "changeable": 0
     },
     {
-      "key": "荐片",
-      "name": "🐭荐片┃P2P",
+      "key": "dr_兔小贝",
+      "name": "📚儿童┃启蒙",
       "type": 3,
-      "api": "csp_JPJGuard",
-      "timeout": 15,
-      "playerType": 2,
-      "searchable": 1,
-      "quickSearch": 1,
+      "api": "https://gh-proxy.net/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/drpy2.min.js",
+      "ext": "https://gh-proxy.net/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/%E5%85%94%E5%B0%8F%E8%B4%9D.js",
+      "style": {
+        "type": "rect",
+        "ratio": 1.597
+      },
+      "searchable": 0,
+      "quickSearch": 0,
       "changeable": 0
     }
   ],
